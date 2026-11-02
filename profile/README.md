@@ -10,6 +10,7 @@ The open-source side of Synchain, a collaboration platform for music production.
 | [Synchain Bridge](https://github.com/synchain-oss/synchain-bridge) | DAW 插件，把 DAW 里的音频实时接进浏览器<br>DAW plugin that streams your DAW audio to the browser | GPL-3.0-or-later |
 | [SCVB](https://github.com/synchain-oss/scvb) | 多人多声部人声的自动声像与音量平衡（预发布）<br>Automatic pan and level balancing for multi-singer vocals (pre-release) | GPL-3.0-or-later |
 | [Synchain Rinne（回环）](https://github.com/synchain-oss/rinne) | 一对反馈插件，把通道信号回送给自己，环路延迟由你设定（开发中，尚未发布）<br>A plugin pair that feeds a channel back into itself, with a loop delay you set (in development, no release yet) | GPL-3.0-or-later |
+| [Synchain Miciri（见切）](https://github.com/synchain-oss/miciri) | 检查人声录音的增益、距离、话筒方向、房间和噪声，告诉你最该先改什么（开发中，尚未发布）<br>Checks the gain, distance, mic direction, room and noise of your vocal recording setup, and tells you what to change first (in development, no release yet) | GPL-3.0-or-later |
 | [Synchain CLI](https://github.com/synchain-oss/synchain-cli) | 在终端里管理 Synchain 项目<br>Manage Synchain projects from the terminal | MIT |
 
 ## OpenTune
