@@ -13,6 +13,7 @@ The open-source side of Synchain, a collaboration platform for music production.
 | [Synchain Miciri（见切）](https://github.com/synchain-oss/miciri) | 检查人声录音的增益、距离、话筒方向、房间和噪声，告诉你最该先改什么（开发中，尚未发布）<br>Checks the gain, distance, mic direction, room and noise of your vocal recording setup, and tells you what to change first (in development, no release yet) | GPL-3.0-or-later |
 | [Synchain CLI](https://github.com/synchain-oss/synchain-cli) | 在终端里管理 Synchain 项目<br>Manage Synchain projects from the terminal | MIT |
 | [reaper-harness](https://github.com/synchain-oss/reaper-harness) | 在 Windows 上用 REAPER 无人值守地测试 VST3 插件：渲染对拍、旁路、存盘重开、反复加减实例，全程用隔离的配置，不碰你自己的 REAPER（开发中，尚未发布）<br>Unattended REAPER host tests for VST3 plugins on Windows: render null tests, bypass, save and reopen, instance churn, in an isolated configuration that never touches your own REAPER setup (in development, no release yet) | MIT |
+| [synchain-bwe](https://github.com/synchain-oss/synchain-bwe) | 给带宽受限的人声补回缺失的高频：AI 生成的 16、22.05、24 kHz 人声，补上的高频段电平跟着人声自己走，全程在你自己的电脑上运行（早期版本，目前只在一个声音上测试过）<br>Adds the missing high band to band-limited voices, such as AI voices made at 16, 22.05 or 24 kHz, with the added band following the voice's own level, entirely on your own computer (early version, tested on one voice so far) | MIT |
 
 ## OpenTune
 
